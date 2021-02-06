@@ -3,5 +3,5 @@
 学習はもちろん、ブックマーク機能や、新しく単語の登録も可能。自分だけの英単語帳を作れます。
 ダッシュボード画面より、習得率や学習進捗を可視化できます。
 
-JavaScript版から移行しました。  
+Reactの勉強も兼ねて、JavaScript版から移行しました。  
 [オリジナル](https://github.com/Jiei-S/english-wordbook__JavaScript)
